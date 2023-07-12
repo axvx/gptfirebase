@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052700785542",
+    "project_id": "chat-gpt-assistant-f38dc",
+    "storage_bucket": "chat-gpt-assistant-f38dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052700785542:android:a1a994ccba037d683f0a07",
+        "android_client_info": {
+          "package_name": "com.example.gptfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052700785542-iv9vvd07iqip4v3ldg4hbkmauldhc9cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCehFsrdgovMflKllTP3oQubEfrgqfTNKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052700785542-iv9vvd07iqip4v3ldg4hbkmauldhc9cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
